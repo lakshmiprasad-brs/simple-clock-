@@ -5,6 +5,9 @@
     --chathams_blue: #1A4B84;
     --tamarillo: #15dfc4;
     --yellow_sea: #fe0659;
+    --tamarillo: #991E14;
+    --yellow_sea: #FEAD06;
+
 }
 
 * {
@@ -171,6 +174,7 @@ header p {
     font-size: larger;
     font-weight: 200;
 }
+
 /* Sticky footer styles
   -------------------------------------------------- */
 html {
