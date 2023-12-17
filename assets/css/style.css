@@ -102,30 +102,6 @@ body {
     background-size: cover;
 }
 
-header .navbar {
-    padding: 20px 0 0;
-}
-
-header .navbar-brand {
-    padding: 0;
-    z-index: 1;
-    width: 213px;
-    height: 109px;
-    background-color: var(--primary-color);
-}
-
-header .navbar-brand img {
-    width: 56px;
-}
-
-img {
-    max-width: 100%;
-}
-
-header h3 {
-    font: normal normal 600 18px/27px Oswald;
-    color: #fff;
-}
 
 header h4 {
     font: normal normal 600 18px/28px Oswald;
@@ -154,25 +130,11 @@ header p {
     width: 25px;
     margin-right: 10px;
 }
-
-
-.link {
-    background-color: rgba(0, 0, 0, 0.09);
-    font: normal normal medium 12px/15px Poppins;
-    letter-spacing: 0.24px;
-    height: 40px;
-    padding: 10px 10px;
-
-}
-
-.link a {
-    color: #055BA6;
-
-}
 .jsclock{
     text-align: center;
     font-size: larger;
     font-weight: 200;
+    background-color: #ada7a7;
 }
 
 /* Sticky footer styles
